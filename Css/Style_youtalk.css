@@ -973,7 +973,7 @@ ul.servises__card-list li {
 		width: 100%;
 	}
 
-	.background {
+	.background, .background-blog {
 		background-image: none;
 	}
 
