@@ -217,7 +217,7 @@ body {
 	background-size: auto, auto, 100%;
 }
 
-.main__content {
+.content {
 	display: flex;
 	justify-content: space-between;
 }
