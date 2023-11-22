@@ -217,6 +217,13 @@ body {
 	background-size: auto, auto, 100%;
 }
 
+.background-blog {
+	background-image: url(../Img/Blog/Main-lmgs/Vector.png);
+	background-repeat: no-repeat;
+	background-position: center 320px;
+	background-size: 100%;
+}
+
 .content {
 	display: flex;
 	justify-content: space-between;
@@ -697,6 +704,7 @@ ul.servises__card-list li {
 	border-radius: 17px;
 	cursor: pointer;
 	margin-top: 23px;
+	background-color: #ffffff;
 }
 
 .content__article-img {
