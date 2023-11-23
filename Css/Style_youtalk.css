@@ -1076,7 +1076,7 @@ ul.servises__card-list li {
 	}
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 570px) {
 	.footer__copyright-list {
 		display: flex;
 		flex-direction: column;
